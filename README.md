@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Steven, and I am a research professional with a keen focus on data science and software development. Having a background in equity research and data analysis, I have honed my skills in constructing quantitative models, performing data analysis utilizing Python and SQL, and teaming up with colleagues to create innovative trading strategies. I am enthusiastic about leveraging data and technology to influence business decisions, and I am continually seeking new opportunities to broaden my expertise in data analysis and software development, particularly in the context of a data science role.
+Hello, my name is Steven, and I am a research professional with a keen focus on data science and software development. Having a background in equity research and data analysis, I have honed my skills in constructing quantitative models, performing data analysis utilizing Python and SQL, and teaming up with colleagues to create innovative trading strategies. I am enthusiastic about leveraging data and technology in the context of finance, and I am continually seeking new opportunities to broaden my expertise.
 
 
 # 💻 Tech Stack:
