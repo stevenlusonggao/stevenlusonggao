@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Steven and I am a finance professional with a background in equity research and data analysis. I am enthusiastic about leveraging data and technology in the context of finance, and I am continually seeking new opportunities to broaden my expertise.
+Hello, my name is Steven and I am a finance professional with a background in equity research and data analysis. I am interested about leveraging data and technology to drive actional investment insights, and I am continually seeking new opportunities to broaden my expertise.
 
 
 # 💻 Tech Stack:
