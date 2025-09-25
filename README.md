@@ -1,5 +1,5 @@
 BLOG: https://stevenlusonggao.github.io/blog/
 
-TECH STACK: Rust, Python, SQL, Java, Swift
+TECH STACK: Rust, Python, SQL
 
 
