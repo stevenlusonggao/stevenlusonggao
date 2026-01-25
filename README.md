@@ -1,5 +1,5 @@
 Website: https://stevenlusonggao.github.io/blog/
 
-Languages: Rust, Python, SQL
+Languages: Rust, Python, SQL, Typescript
 
 
