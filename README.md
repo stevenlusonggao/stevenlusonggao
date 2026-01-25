@@ -1,4 +1,4 @@
-Website: https://stevenlusonggao.github.io/blog/
+Blog: https://stevenlusonggao.github.io/blog/
 
 Languages: Rust, Python, SQL, Typescript
 
